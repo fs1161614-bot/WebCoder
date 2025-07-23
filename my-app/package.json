@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://fs1161614-bot.github.io/react-practice",
+  "homepage": "https://github.com/fs1161614-bot/WebCoder.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
